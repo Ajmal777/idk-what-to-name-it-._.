@@ -1,0 +1,143 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  color: #555555;
+  text-align: center;
+  background-color: #FCF8EC;
+  margin: 0;
+}
+
+hr {
+  border: dotted #DDDDDD 6px;
+  border-bottom: none;
+  width: 100px;
+  margin: 25px auto 20px auto;
+}
+
+h1{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #B4846C;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #61B15A;
+  width: 50%;
+  margin: 0px auto 5px 0px;
+}
+
+.div-1{
+  line-height: 2;
+  text-align: center;
+  margin: 0px auto;
+  width: 100%;
+  background-color: #FCDEC0;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.div-2{
+  text-align: left;
+  line-height: 1.75;
+  margin: 0px auto;
+  width: 50%;
+  padding-top: 10px;
+}
+
+.div-3{
+  width: 100%;
+  background-color: #FCDEC0;
+  padding-top: 25px;
+  padding-bottom: 5px;
+}
+
+.name{
+ text-align: right;
+}
+
+#name{
+  margin-left: 70px;
+}
+
+#meter{
+  margin-left: 10px;
+}
+
+#prog{
+  margin-left: 10px;
+}
+
+input{
+ margin-left: 10px;
+}
+
+form{
+  margin-bottom: 25px;
+}
+
+input[type=number]{
+  width: 50px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+input[type=file]{
+  font-family: 'Montserrat', sans-serif;
+}
+
+input[type=text]{
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 10px;
+}
+
+input[list]{
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 10px;
+}
+
+#b{
+  margin-right: 5px;
+}
+
+input[type="file" i]{
+  font-family: 'Montserrat', sans-serif;
+}
+
+form[action]{
+  height: 37px;
+}
+
+.BUTTON_CYT {
+   background: #FCF8EC;
+   background-image: -webkit-linear-gradient(top, #FCF8EC, #F9F7CF);
+   background-image: -moz-linear-gradient(top, #FCF8EC, #F9F7CF);
+   background-image: -ms-linear-gradient(top, #FCF8EC, #F9F7CF);
+   background-image: -o-linear-gradient(top, #FCF8EC, #F9F7CF);
+   background-image: -webkit-gradient(to bottom, #FCF8EC, #F9F7CF);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #555555;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 16px;
+   padding: 6px;
+   border: solid #F9F7CF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CYT:hover {
+   border: solid #FCF8EC 1px;
+   background: #F9F7CF;
+   background-image: -webkit-linear-gradient(top, #F9F7CF, #FCF8EC);
+   background-image: -moz-linear-gradient(top, #F9F7CF, #FCF8EC);
+   background-image: -ms-linear-gradient(top, #F9F7CF, #FCF8EC);
+   background-image: -o-linear-gradient(top, #F9F7CF, #FCF8EC);
+   background-image: -webkit-gradient(to bottom, #F9F7CF, #FCF8EC);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
